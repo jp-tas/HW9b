@@ -1,0 +1,34 @@
+* {
+    font-family: Calibri, Arial, Helvetica, sans-serif;
+}
+
+.back-link {
+    margin-top: 1.5em;
+}
+
+.sample-form p {
+    margin-bottom: 1.25em;
+}
+
+.sample-form fieldset {
+    border: 0;
+    padding: 0;
+    margin: 0 0 1.25em;
+}
+
+.sample-form legend {
+    padding: 0;
+}
+
+.sample-form fieldset label {
+    display: block;
+}
+
+input, select, textarea {
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
+#confirmation {
+    overflow-wrap: anywhere;
+}
